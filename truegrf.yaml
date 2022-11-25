@@ -1,4 +1,7 @@
 description: A new TrueGRF project
+grfid: f2193365
 license: CC0-1.0
+name: test
 type: townname
+url: https://github.com/TheDarkSlasher0013/test
 version: 6
